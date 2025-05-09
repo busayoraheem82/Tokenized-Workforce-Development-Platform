@@ -7,3 +7,5 @@ V
 &contracts/individual-verification.clar,6/1/61258cdaefeb05b285119e0a711e1e72a3c2030f
 O
 contracts/skill-assessment.clar,a/c/acc4c3e39a1bd1c98e90722350eaf7edda3f640a
+V
+&contracts/training-recommendation.clar,0/9/09a8b4f383a138b179228a5db6ee4e81b515c12b
